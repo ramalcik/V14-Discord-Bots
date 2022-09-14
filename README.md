@@ -28,3 +28,4 @@
 ![image](https://cdn.discordapp.com/attachments/1006698954248966336/1019563279883980931/v14_help.png)
 ![image](https://cdn.discordapp.com/attachments/1006698954248966336/1019563280089485372/v14_profil.png)
 ![image](https://cdn.discordapp.com/attachments/1006698954248966336/1019565324833656832/v14_invite_text.png)
+![image](https://cdn.discordapp.com/attachments/1006698954248966336/1019565785997398016/v14_isim.png)
