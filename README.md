@@ -15,7 +15,7 @@
 
 
 
-![image](https://cdn.discordapp.com/attachments/1009804086293565501/1156699704646705182/kayitpapazramal.png?ex=6515ec0c&is=65149a8c&hm=04f043ba739becf08b2eae41a35285242502b615a88433b5156d8c03bb3aff2f&)
+![image](https://cdn.discordapp.com/attachments/1009804086293565501/1156701384679370876/ramalassspapazkayit.png?ex=6515ed9c&is=65149c1c&hm=696e7a31834a91b34763c2f16a98d4766ec639fa63a7e98858254077cf750316&)
 
 ![image](https://cdn.discordapp.com/attachments/1009804086293565501/1156699704168546434/papazramalsay.png?ex=6515ec0b&is=65149a8b&hm=36730f1a54c2cae491491812eb74221ccc085ee1bfb73be633bef996087b208d&)
 
