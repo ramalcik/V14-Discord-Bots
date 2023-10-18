@@ -15,6 +15,11 @@
 
 
 
+![image](https://cdn.discordapp.com/attachments/1157800686248022177/1164342735537438801/gekle.png?ex=6542ddac&is=653068ac&hm=a4d9ca5fcc2c2831c8d9ffb2258760647da7cc4312bfb32e017d89819118382b&)
+![image](https://cdn.discordapp.com/attachments/1157800686248022177/1164342736577626202/geklemenu.png?ex=6542ddac&is=653068ac&hm=7a915d423956085de2e44e1872e5229f479c0b21274481fa2bbb230e4ba38cf9&)
+![image](https://cdn.discordapp.com/attachments/1157800686248022177/1164342736141434940/guvenlilistemenu.png?ex=6542ddac&is=653068ac&hm=4f6a9d8985dcd1a692b5fe534d093028c8b9d95b39edbb81825dbcb01ce1aabf&)
+![image](https://cdn.discordapp.com/attachments/1157800686248022177/1164342735805886514/guvenlilistesi.png?ex=6542ddac&is=653068ac&hm=0dd140e1cacc6fa9520a268dd495193eb749ab244c9695a76a1d25d6eb0f810e&)
+
 ![image](https://cdn.discordapp.com/attachments/1009804086293565501/1156701384679370876/ramalassspapazkayit.png?ex=6515ed9c&is=65149c1c&hm=696e7a31834a91b34763c2f16a98d4766ec639fa63a7e98858254077cf750316&)
 
 ![image](https://cdn.discordapp.com/attachments/1009804086293565501/1156699704168546434/papazramalsay.png?ex=6515ec0b&is=65149a8b&hm=36730f1a54c2cae491491812eb74221ccc085ee1bfb73be633bef996087b208d&)
