@@ -14,6 +14,11 @@
 * Botların komutlarında text olarak benzetme vardır sonra gelip şurdan aldınız denmesin
 
 
+![image](https://cdn.discordapp.com/attachments/1165449404149403678/1165449455877771416/regkilit_kapat.png?ex=6546e463&is=65346f63&hm=ca11f82f86e6bd78cf141e0cff77c559783e37ea9b37bbe2f7d744f7ee235bbc&)
+![image](https://cdn.discordapp.com/attachments/1165449404149403678/1165449455651270737/regkilit_ac.png?ex=6546e463&is=65346f63&hm=b88c7131144a4824e76248c7f95dac435376fd9f5d05b5e7ebb42d6af2f10712&)
+![image](https://cdn.discordapp.com/attachments/1165449404149403678/1165449456108449873/kapalikayit.png?ex=6546e463&is=65346f63&hm=15d40cea77427904ce823fc35e9e549eb8ca490211dde2eedf2f3189e5e07bbf&)
+![image](https://cdn.discordapp.com/attachments/1165449404149403678/1165450108117209128/say.png?ex=6546e4fe&is=65346ffe&hm=a346b84c7ec65fa6bdd23b1c259ccb477691ba1f9577f06b4ee952bacaa36c53&)
+![image](https://cdn.discordapp.com/attachments/1165449404149403678/1165450108414984203/say_detayli.png?ex=6546e4fe&is=65346ffe&hm=91b39926213323e732d0719cb3acefd72c1299a67c9caa1df9ef688ab3eb34f6&)
 
 ![image](https://cdn.discordapp.com/attachments/1157800686248022177/1164342735537438801/gekle.png?ex=6542ddac&is=653068ac&hm=a4d9ca5fcc2c2831c8d9ffb2258760647da7cc4312bfb32e017d89819118382b&)
 ![image](https://cdn.discordapp.com/attachments/1157800686248022177/1164342736577626202/geklemenu.png?ex=6542ddac&is=653068ac&hm=7a915d423956085de2e44e1872e5229f479c0b21274481fa2bbb230e4ba38cf9&)
