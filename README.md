@@ -12,8 +12,11 @@
 
 # Hatırlatma!
 * Botların komutlarında text olarak benzetme vardır sonra gelip şurdan aldınız denmesin
+* buda benim dc bota ne ekleye bilirim bu konuda fikir vere bilirsin dc ismim `ramal.`
+* Darkdays teşekkürler burdan çok yardımcı oldu `darkcim` dcsi
 
 
+![image](https://cdn.discordapp.com/attachments/1165449404149403678/1165476830891999292/tweetsss.png?ex=6546fde1&is=653488e1&hm=78193296252a561f80aede1136407bbd63fdcad3195f8fb226c1fe79eb3ad4da&)
 ![image](https://cdn.discordapp.com/attachments/1165449404149403678/1165476098499424356/itiraf.png?ex=6546fd33&is=65348833&hm=8491be3718e79fc616ac24922e0ee74ad25482b065c04280673c5205ca1afa3c&)
 ![image](https://cdn.discordapp.com/attachments/1165449404149403678/1165473672887283772/otoreg.png?ex=6546faf1&is=653485f1&hm=dfe617fe4ac5c858cdffdb962a6beb7adde38f8efe0e7a04c018485d91742eb7&)
 ![image](https://cdn.discordapp.com/attachments/1165449404149403678/1165461319470809129/suslee.png?ex=6546ef6f&is=65347a6f&hm=1aa5f827121b3de29acb98b7202241284b119aed38ca7180c0afb81637c45cea&)
