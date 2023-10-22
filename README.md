@@ -16,6 +16,7 @@
 * Darkdays teşekkürler burdan çok yardımcı oldu `darkcim` dcsi
 
 
+![image](https://cdn.discordapp.com/attachments/1165449404149403678/1165481725946765322/dogrulamaa.png?ex=65470271&is=65348d71&hm=686b17d665d98a588febe49038c28ebe2d554fda0d7b82a04518a87be7c142c7&)
 ![image](https://cdn.discordapp.com/attachments/1165449404149403678/1165477958429966406/cmd_yasakla.png?ex=6546feee&is=653489ee&hm=6295f14c6ab7f3e134462a93657212171a77a27664f87722d69e66d8f52c4437&)
 ![image](https://cdn.discordapp.com/attachments/1165449404149403678/1165476830891999292/tweetsss.png?ex=6546fde1&is=653488e1&hm=78193296252a561f80aede1136407bbd63fdcad3195f8fb226c1fe79eb3ad4da&)
 ![image](https://cdn.discordapp.com/attachments/1165449404149403678/1165476098499424356/itiraf.png?ex=6546fd33&is=65348833&hm=8491be3718e79fc616ac24922e0ee74ad25482b065c04280673c5205ca1afa3c&)
