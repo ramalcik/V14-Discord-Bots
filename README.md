@@ -14,6 +14,7 @@
 * Botların komutlarında text olarak benzetme vardır sonra gelip şurdan aldınız denmesin
 
 
+![image](https://cdn.discordapp.com/attachments/1165449404149403678/1165476098499424356/itiraf.png?ex=6546fd33&is=65348833&hm=8491be3718e79fc616ac24922e0ee74ad25482b065c04280673c5205ca1afa3c&)
 ![image](https://cdn.discordapp.com/attachments/1165449404149403678/1165473672887283772/otoreg.png?ex=6546faf1&is=653485f1&hm=dfe617fe4ac5c858cdffdb962a6beb7adde38f8efe0e7a04c018485d91742eb7&)
 ![image](https://cdn.discordapp.com/attachments/1165449404149403678/1165461319470809129/suslee.png?ex=6546ef6f&is=65347a6f&hm=1aa5f827121b3de29acb98b7202241284b119aed38ca7180c0afb81637c45cea&)
 ![image](https://cdn.discordapp.com/attachments/1157993674551087134/1165460953215803493/yoneticiliste.png?ex=6546ef18&is=65347a18&hm=db735420cb02a87c4108caf4ad0be88caad5d0876f66b18bf731526ded58360b&)
