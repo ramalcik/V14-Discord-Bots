@@ -15,7 +15,8 @@
 * buda benim dc bota ne ekleye bilirim bu konuda fikir vere bilirsin dc ismim `ramal.`
 * Darkdays teşekkürler burdan çok yardımcı oldu `darkcim` dcsi
 
-
+![image](https://cdn.discordapp.com/attachments/1009804086293565501/1170206675169464371/goreval.png?ex=655832e4&is=6545bde4&hm=5911884fdd4795e4460d9189ff6791118aaac13218a00a4018884ad2e1be503c&)
+![image](https://cdn.discordapp.com/attachments/1009804086293565501/1170206674762612826/songorulmee.png?ex=655832e4&is=6545bde4&hm=9e192e9f2067ace3ff91de5628989bfbbeea7d04f50b91c1297dff6402ad7de9&)
 ![image](https://cdn.discordapp.com/attachments/1157800686248022177/1166446608863465623/image_10.png?ex=654a850f&is=6538100f&hm=6d89f53d80d1ff150b8e821476f62ca2d883c6640a92e226f0466e1ea463c77f&)
 ![image](https://cdn.discordapp.com/attachments/1165449404149403678/1165493865365643275/image_9.png?ex=65470dbf&is=653498bf&hm=c1479cc97b1417bccc31eb5d9b0ae7acf1723da233176c13977af4d79b69be74&)
 ![image](https://cdn.discordapp.com/attachments/1165449404149403678/1165481725946765322/dogrulamaa.png?ex=65470271&is=65348d71&hm=686b17d665d98a588febe49038c28ebe2d554fda0d7b82a04518a87be7c142c7&)
