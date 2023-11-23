@@ -2,18 +2,11 @@
 
 # Proje Hakkında Bilgi
 
-* Selam, github reposuna hoşgeldin. Bu repomda papaz ile yaptığım botu tanıtıcam.
-
-* Not: papazın dcsi `papazchavo.`
-
-* Bilgilendirme: Bu Botları fazla star gelince paylaşıcam.
-
-
-
-# Hatırlatma!
-* Botların komutlarında text olarak benzetme vardır sonra gelip şurdan aldınız denmesin
-* buda benim dc bota ne ekleye bilirim bu konuda fikir vere bilirsin dc ismim `ramal.`
-* Darkdays teşekkürler burdan çok yardımcı oldu `darkcim` dcsi
+Projeyi Papazla Yaptık toplama bot gibi bişey 
+biliyorum bakınca simdi çoğu eleman laf edicek ya işte kardeşim alıntı
+ilk bi içine bak sonra konuş bunu diyen elemanların kendisi 2 satır kod dahi yazamıyor
+neyse toplama bot alın kullanın hatası var ama ufak tefek botun çalışmasını engellemiyor onuda bilerek çözmedim
+zaten paylaşıcam siz kendiniz çözersiniz + olarak görev komutunda invite görevini tanımlamadım onada göz atarsınız kendiniz
 
 
 ![image](https://cdn.discordapp.com/attachments/1009804086293565501/1173078238138998794/canavsramalkestat.png?ex=6562a53e&is=6550303e&hm=bc4d8bb26c6009138bf6e718c767e8c8f6c10453259115d5c918355c556f3dcc&)
