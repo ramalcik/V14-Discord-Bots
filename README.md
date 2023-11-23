@@ -9,7 +9,7 @@ neyse toplama bot alın kullanın hatası var ama ufak tefek botun çalışması
 zaten paylaşıcam siz kendiniz çözersiniz + olarak görev komutunda invite görevini tanımlamadım onada göz atarsınız kendiniz
 
 
-Projedeye yardım eden asalaklar
+Projeye yardım eden asalaklar
 `papazchavo. darkcim`
 
 
