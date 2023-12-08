@@ -2,6 +2,8 @@
 
 # Proje Hakkında Bilgi
 
+# Güncelledikçe Buraya Atıcam.
+
 Projeyi Papazla Yaptık toplama bot gibi bişey 
 biliyorum bakınca simdi çoğu eleman laf edicek ya işte kardeşim alıntı
 ilk bi içine bak sonra konuş bunu diyen elemanların kendisi 2 satır kod dahi yazamıyor
