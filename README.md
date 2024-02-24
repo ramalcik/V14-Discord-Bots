@@ -19,3 +19,5 @@ Projeyi Yeniliyorum bazıları hata aldığını falan söyledi.
 ![image](https://cdn.discordapp.com/attachments/1190345357532606475/1210901040493232128/hgmesaji.png?ex=65ec3e79&is=65d9c979&hm=5aead700458388ee7eab18efe6fffd305f9aa9707e0dce8798a448a482321995)
 ![image](https://cdn.discordapp.com/attachments/1190345357532606475/1210900994569928754/image.png?ex=65ec3e6e&is=65d9c96e&hm=bcffda8f6d71e670803a1b98e9699b1c128bdae853d969be4cc54f3faeb8e9ad&)
 ![image](https://cdn.discordapp.com/attachments/1190345357532606475/1210906774786547753/image.png?ex=65ec43d0&is=65d9ced0&hm=ce25bbf4daa0ed9998179898ca84ad955d62ac12217263d5e026202663586ae9&)
+![image](https://cdn.discordapp.com/attachments/1190345357532606475/1210906930495754240/image.png?ex=65ec43f5&is=65d9cef5&hm=0760ead609313af5b4b663d1399d6e329fe7a4579ea3a731e215dfd682298999&)
+![image](https://cdn.discordapp.com/attachments/1190345357532606475/1210907116014018600/image.png?ex=65ec4422&is=65d9cf22&hm=c8d21f929e237f8d354e5fa07ed59edaa097ffdfb18cffab93edd60a5bcd58de&)
