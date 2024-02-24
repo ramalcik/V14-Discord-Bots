@@ -23,3 +23,6 @@ Projeyi Yeniliyorum bazıları hata aldığını falan söyledi.
 ![image](https://cdn.discordapp.com/attachments/1190345357532606475/1210907116014018600/image.png?ex=65ec4422&is=65d9cf22&hm=c8d21f929e237f8d354e5fa07ed59edaa097ffdfb18cffab93edd60a5bcd58de&)
 ![image](https://cdn.discordapp.com/attachments/1190345357532606475/1210907678621306890/image.png?ex=65ec44a8&is=65d9cfa8&hm=a2b3ebd34f64c7e7b9905535daeaa48f841d3e559d40c37b59504c3d881ab19d&)
 ![image](https://cdn.discordapp.com/attachments/1190345357532606475/1210907774444113920/image.png?ex=65ec44bf&is=65d9cfbf&hm=2fe8b0eb9a724651feec1c81d27d7e225fbfdfedc5f62b592ae44affbc04bae1&)
+![image](https://cdn.discordapp.com/attachments/1190345357532606475/1210900587802271755/image.png?ex=65ec3e0d&is=65d9c90d&hm=6bfc6a29a1c3378a9e6a2ec3d02dfff9d2a0ae7d61d8d088e27126eb19d22d9b&)
+![image](https://cdn.discordapp.com/attachments/1190345357532606475/1210900280787472404/image.png?ex=65ec3dc4&is=65d9c8c4&hm=3da233f125d314a910f7bda8e37f5997a2ee136b4f0a5fdea41927a39ddcc52a&)
+![image](https://cdn.discordapp.com/attachments/1190345357532606475/1210908394421227621/image.png?ex=65ec4552&is=65d9d052&hm=d223ef41e1803aa886714da8e0957a644c899caff46d2d477ecfc8a586dfd5c8&)
