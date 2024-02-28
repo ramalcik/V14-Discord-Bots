@@ -33,3 +33,4 @@ Projeyi Yeniliyorum bazıları hata aldığını falan söyledi.
 ![image](https://cdn.discordapp.com/attachments/1190345357532606475/1211667043128971324/image.png?ex=65ef07de&is=65dc92de&hm=4e13eec9713713ea91f050b4d44dc96edb0d3d953082db8ccc6caccf826f1516&)
 ![image](https://cdn.discordapp.com/attachments/1190345357532606475/1211683012786262076/image.png?ex=65ef16be&is=65dca1be&hm=7c8174685d67326425b835a295c8b3ae79cf2e63ee3dde199d5aae73fb724a87&)
 ![image](https://cdn.discordapp.com/attachments/1025465436302737509/1212326685685452800/image.png?ex=65f16e35&is=65def935&hm=a442fe115bb942a3fca04cddc3d456fb8966c450ab858415c7a405d004417644&)
+![image](https://cdn.discordapp.com/attachments/1190345357532606475/1212354067788075038/image.png?ex=65f187b6&is=65df12b6&hm=6696afaed341b7ce88ce7d9791fc86d26791911a9db6e3d076aed958b298dc1d&)
