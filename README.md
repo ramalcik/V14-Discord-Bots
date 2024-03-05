@@ -49,3 +49,4 @@ Projeyi Yeniliyorum bazıları hata aldığını falan söyledi.
 ![image](https://cdn.discordapp.com/attachments/1155517980340400248/1214221707938762802/image_2.png?ex=65f85316&is=65e5de16&hm=f9180222bca3c017fcb558ef999d5d82304dbef4242bd2abb273aec196bb6d6a&)
 ![image](https://cdn.discordapp.com/attachments/1155517980340400248/1214221708563849276/image_4.png?ex=65f85316&is=65e5de16&hm=83db732ad71263be56a199d7fddce63a78adff52982406e60fefc6a50928758c&)
 ![image](https://cdn.discordapp.com/attachments/1155517980340400248/1214221709209763891/image_3.png?ex=65f85316&is=65e5de16&hm=8bede464d7a95bb6dcb8dcb5a273dbd9733cf6fac388da1442ac122c93a6f974&)
+![image](https://cdn.discordapp.com/attachments/1155517980340400248/1214559665522737162/Ekran_Alnts.png?ex=65f98dd5&is=65e718d5&hm=9f40ee3876624b28a5ce7a8b5fe95d1abe30abb1f666a15a3402f82e9de3af24&)
