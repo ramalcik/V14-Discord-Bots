@@ -52,3 +52,5 @@ Projeyi Yeniliyorum bazıları hata aldığını falan söyledi.
 ![image](https://cdn.discordapp.com/attachments/1155517980340400248/1214564844347457536/Ekran_Alnts_1.png?ex=65f992a8&is=65e71da8&hm=a0f215214fbec74817d07d829532d48e29b5e4749164fc32f1fcf767237fa042&)
 ![image](https://cdn.discordapp.com/attachments/1190345357532606475/1214563949035397131/image.png?ex=65f991d2&is=65e71cd2&hm=cb18d1a64f82b7c2e55322aaca64408e1f9936a6c99aff7f6b260467b84f5f68&)
 ![image](https://cdn.discordapp.com/attachments/1214834069976780811/1215291179969806346/image.png?ex=65fc371c&is=65e9c21c&hm=bf9cb2a2e8e6e55efebba0841af97d7c866fefdba67e9edcfabcd8c309c508a3&)
+![image](https://cdn.discordapp.com/attachments/1215738107186384976/1215971095749070919/image.png?ex=65feb054&is=65ec3b54&hm=8a0b7f66c198b6a580e2ee456b93f5202edbcccd5140ad90b94abc24429b8a1e&)
+![image](https://cdn.discordapp.com/attachments/1214831022592491520/1216039546278379630/image.png?ex=65fef014&is=65ec7b14&hm=27d6d388be5c78c56790561a88d7536e436bd5edd3541ee71cc32d06233b0a3f&)
