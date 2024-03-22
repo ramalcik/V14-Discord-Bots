@@ -56,11 +56,11 @@ module.exports = {
         selectMenu
       );
 
-    const ancient = new EmbedBuilder()
+    const ramalsanal31 = new EmbedBuilder()
       .setDescription(`>  ${Tac} ${message.author} Merhaba ${member.toString()}  Kullanıcısına kullanıcıyı \`${moment(Date.now()).format("LLL")}\` Tarihinde Vermek İstediginz Yetkili Türünü Aşagıdan Seçiniz`)
       .setAuthor({ name: message.guild.name, iconURL: message.guild.iconURL({ dynamic: true }) })
 
-    let msg = await message.reply({ embeds: [ancient], components: [row], });
+    let msg = await message.reply({ embeds: [ramalsanal31], components: [row], });
 
 
     if (msg) {
