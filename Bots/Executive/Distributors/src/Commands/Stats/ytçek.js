@@ -49,12 +49,12 @@ module.exports = {
             ]),
     );
     
-    const ancient = new EmbedBuilder()
+    const ramalilesevis = new EmbedBuilder()
 .setDescription(`> ${Tac} ${message.author} Merhaba ${uye.toString()}  Kullanıcısına kullanıcıyı \`${moment(Date.now()).format("LLL")}\` Tarihinde Vermek İstediginz Yetkili Türünü Aşagıdan Seçiniz`)
 .setAuthor({ name: message.guild.name, iconURL: message.guild.iconURL({ dynamic: true }) })
 .setColor("Random")
 
-let msg = await message.reply({ embeds: [ancient], components : [row],});
+let msg = await message.reply({ embeds: [ramalilesevis], components : [row],});
     
 
 if (msg) {
