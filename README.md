@@ -12,7 +12,7 @@ zaten paylaşıcam siz kendiniz çözersiniz + olarak görev komutunda invite g�
 
 
 Projeye yardım eden asalaklar
-`papazchavo. darkcim`
+`papazchavo. darkcim  cartelcim`
 
 Projeyi Yeniliyorum bazıları hata aldığını falan söyledi.
 
