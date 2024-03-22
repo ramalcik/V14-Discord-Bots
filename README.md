@@ -4,12 +4,10 @@
 
 # Güncelledikçe Buraya Atıcam.
 
-Projeyi Papazla Yaptık toplama bot gibi bişey 
-biliyorum bakınca simdi çoğu eleman laf edicek ya işte kardeşim alıntı
-ilk bi içine bak sonra konuş bunu diyen elemanların kendisi 2 satır kod dahi yazamıyor
-neyse toplama bot alın kullanın hatası var ama ufak tefek botun çalışmasını engellemiyor onuda bilerek çözmedim
-zaten paylaşıcam siz kendiniz çözersiniz + olarak görev komutunda invite görevini tanımlamadım onada göz atarsınız kendiniz
-
+Projeyi Cartelle Kontrol Ettik hiç bir sorun yok tek emoji hatası var oda 
+emoji olmadığı için sıkıntı çıkartmaz öyle büyük siz ayarlarsınız.
+Projeye bakıp laf atacak insanlar olacak ya bu bundan almış şunda vardı diyen elemanlar
+daha 2 satır kodu bir araya getiremiyor fazla lafa gerek yok.
 
 Projeye yardım eden asalaklar
 `papazchavo. darkcim  cartelcim`
