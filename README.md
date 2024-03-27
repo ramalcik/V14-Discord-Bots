@@ -10,10 +10,8 @@ Projeye bakıp laf atacak insanlar olacak ya bu bundan almış şunda vardı diy
 daha 2 satır kodu bir araya getiremiyor fazla lafa gerek yok.
 
 Projeye yardım eden asalaklar
-`papazchavo. darkcim  cartelcim`
+`papazchavo. darkcim  cartelcim Mysterious`
 
-Projedeki Dostlar
-`hex0xdroot`
 
 Projeyi Yeniliyorum bazıları hata aldığını falan söyledi.
 
